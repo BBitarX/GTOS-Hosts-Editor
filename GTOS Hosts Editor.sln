@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTOS Hosts Editor", "GTOS Hosts Editor\GTOS Hosts Editor.csproj", "{0A7F8B87-AED1-45DB-85DA-F784037B163A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7F8B87-AED1-45DB-85DA-F784037B163A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7F8B87-AED1-45DB-85DA-F784037B163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7F8B87-AED1-45DB-85DA-F784037B163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7F8B87-AED1-45DB-85DA-F784037B163A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB82E08-3E0A-4CDE-8FC9-F3080A008E07}
+	EndGlobalSection
+EndGlobal

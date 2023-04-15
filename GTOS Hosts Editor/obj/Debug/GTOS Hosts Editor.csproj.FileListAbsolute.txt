@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\bin\Debug\GTOS Hosts Editor.exe.config
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\bin\Debug\GTOS Hosts Editor.exe
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\bin\Debug\GTOS Hosts Editor.pdb
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\bin\Debug\MaterialSkin.dll
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS_Hosts_Editor.MainForm.resources
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS_Hosts_Editor.Properties.Resources.resources
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.csproj.CopyComplete
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.exe
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\obj\Debug\GTOS Hosts Editor.pdb
+C:\Users\user\source\repos\GTOS Hosts Editor\GTOS Hosts Editor\bin\Debug\DrakeUI.Framework.dll
