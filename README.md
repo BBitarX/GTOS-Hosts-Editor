@@ -2,6 +2,10 @@
 A hosts editor specifically made for the convenience of Growtopia GTOS Private Server users
 
 
+https://user-images.githubusercontent.com/68905755/232207155-372823ec-cde2-4d73-9719-88efb4f09d62.mp4
+
+
+
 
 
 # How to use
@@ -19,5 +23,7 @@ Log on Growtopia! You will be in GTOS!
 
 
 
+
 # Join GTOS server:
+
 https://discord.gg/GTOS
