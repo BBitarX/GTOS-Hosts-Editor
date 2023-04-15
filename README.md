@@ -13,4 +13,11 @@ Click Join GTOS Server
 # Step 3:
 Log on Growtopia! You will be in GTOS!
 
-Simple usage!
+
+
+# Simple and Easy to use!
+
+
+
+# Join GTOS server:
+https://discord.gg/GTOS
